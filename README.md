@@ -9,6 +9,7 @@ Checkout my repositories for more information!
 
 ## Future projects:
 
-1. Rubik's Cube designer
+### Rubik's Cube designer
+
 This will be a website where people can create their own rubik's cube designs with ease.
 My profile picture is of a design I call the circuit cube. It has 3 solutions.
