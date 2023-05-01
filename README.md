@@ -1,4 +1,4 @@
-## Games on working on using Unity:
+## Games I'm working on using Unity:
 
 1. Pathfinder (2D puzzle game)
 2. Constellation (2D scrolling game)
