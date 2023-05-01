@@ -1,5 +1,3 @@
-# Hey there,
-
 ## Games on working on using Unity:
 
 1. Pathfinder (2D puzzle game)
