@@ -1,3 +1,4 @@
-Hello,
+## Hey there,
 
-I want to make video games
+I aspire to be an indie game developer.
+Currently I am working on a 2D pathfinding puzzle game.
