@@ -9,10 +9,10 @@ Checkout my repositories for more information!
 
 ## Future project ideas:
 
-#### Rubik's Cube designer
+#### 1. Rubik's Cube designer
 
 This will be a website where people can create their own rubik's cube designs with ease. I have made a few of my own multiple solution Rubik's Cube designs. My profile picture is one I made called the circuit cube with 3 distinct solutions.
 
-#### Discord music bot for youtube
+#### 2. Discord music bot for youtube
 
 I want to make my own discord music bot that only works through playing youtube audio.
