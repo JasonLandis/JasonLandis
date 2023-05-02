@@ -11,7 +11,8 @@ Checkout my repositories for more information!
 
 This will be a website where people can create their own rubik's cube designs with ease. I have made a few of my own multiple solution Rubik's Cube designs. This is one of a few designs I've made.
 
-![Circuit](https://user-images.githubusercontent.com/100310833/235581967-b3599d56-588e-422d-9bf6-eec8a9390776.png)
+![Circuit](https://user-images.githubusercontent.com/100310833/235582175-90abf95f-2129-491a-813b-472a5c2e4455.png)
+
 
 #### 2. Discord music bot for youtube
 
