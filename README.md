@@ -3,8 +3,6 @@
 1. Pathfinder (2D puzzle game)
 2. Constellation (2D scrolling game)
 
-Checkout my repositories for more information!
-
 ## Future project ideas:
 
 #### 1. Rubik's Cube designer
