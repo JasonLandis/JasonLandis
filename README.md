@@ -9,7 +9,9 @@ Checkout my repositories for more information!
 
 #### 1. Rubik's Cube designer
 
-This will be a website where people can create their own rubik's cube designs with ease. I have made a few of my own multiple solution Rubik's Cube designs. My profile picture is a pixel-art depiction of one I made called the circuit cube with 3 distinct solutions.
+This will be a website where people can create their own rubik's cube designs with ease. I have made a few of my own multiple solution Rubik's Cube designs. This is one of a few designs I've made.
+
+![Circuit](https://user-images.githubusercontent.com/100310833/235581967-b3599d56-588e-422d-9bf6-eec8a9390776.png)
 
 #### 2. Discord music bot for youtube
 
