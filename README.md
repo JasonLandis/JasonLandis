@@ -14,4 +14,4 @@ This will be a website where people can create their own rubik's cube designs wi
 
 #### 2. Discord bot
 
-I want to make a personalizes discord bot for my friend group.
+I want to make a personalized discord bot that can play music and a potentially some other things.
