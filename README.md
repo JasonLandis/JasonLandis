@@ -9,4 +9,4 @@
 
 This will be a website where people can create their own rubik's cube designs with ease. I have made a few of my own multiple solution Rubik's Cube designs. This is one of a few designs I've made.
 
-![Circuit](https://user-images.githubusercontent.com/100310833/235582466-bebb4cb0-5b5c-4eec-ae53-3722f0f776b3.png)
+![CircuitDots](https://github.com/JasonLandis/JasonLandis/assets/100310833/09fd82c5-6254-4885-abdb-96a7f08967da)
