@@ -17,10 +17,13 @@ There are many different stars to unlock, each bringing a unique glow to your ga
 
 ## Screenshots
 ![Gameplay 1 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/682789ac-71f1-4403-9b95-26a7f031d759)
-![Gameplay 1 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/fa456e5a-8288-4525-b9c1-09cde6af270d)
-![Gameplay 1 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/52e5371f-6b3f-47c8-9ffa-7a28c0cb8494)
-![Gameplay 1 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/7241414f-516a-4764-9809-ede0397347e3)
-
+![Gameplay 2 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/ea6ed452-bc5c-4514-ad82-fea00e639b5d)
+![Gameplay 3 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/b3f80a27-480b-431c-8287-f882b98671dd)
+![Gameplay 4 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/ebb1df38-18b5-41c1-a5b8-9b5296f9284d)
+![Gameplay 5 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/fa000228-a3d2-4bd0-8936-22175c1a2903)
+![Menu Image git](https://github.com/JasonLandis/JasonLandis/assets/100310833/2d52961c-5257-47bf-8177-ecec77403766)
+![Shop Image git](https://github.com/JasonLandis/JasonLandis/assets/100310833/19b2e033-bdb8-4b8c-89ce-e2cc927bce7f)
+![Upgrades Menu git](https://github.com/JasonLandis/JasonLandis/assets/100310833/1e4081cf-560c-4643-acbe-770c7341c366)
 
 
 ## Upcoming game ideas
