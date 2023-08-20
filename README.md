@@ -1,6 +1,7 @@
 ## Games I've made:
 
-# Constellation (On Google Play)
+# Constellation
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.JasonLandis.Constellation)
 ![feature](https://github.com/JasonLandis/JasonLandis/assets/100310833/24b62e2f-0325-4f9d-8df4-e654c40c758a)
 
 ## How to play
