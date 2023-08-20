@@ -29,7 +29,7 @@ There are many different stars to unlock, each bringing a unique glow to your ga
 ![Upgrades Menu git](https://github.com/JasonLandis/JasonLandis/assets/100310833/1e4081cf-560c-4643-acbe-770c7341c366)
 
 
-## Upcoming game ideas
+# Upcoming game ideas
 
 Photophobia (3D horror game - Unreal Engine)
 <br>
