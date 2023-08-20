@@ -16,5 +16,6 @@ If you land on another star in the universe, you are randomly given a choice to 
 There are many different stars to unlock, each bringing a unique glow to your game. There are also many upgrades to unlock, allowing you to choose the starting value of the size, spread, and speed of the asteroids, as well as how many extra lives you start with.
 
 
-<img align="right" src="(https://github.com/JasonLandis/JasonLandis/assets/100310833/948883d8-b9e1-4269-b568-ab5174a60c27)">
+<img align="right" src="![Gameplay 1 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/8cfeb822-56a6-4592-9710-2521b22e3179)">
+
 
