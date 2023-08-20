@@ -16,14 +16,11 @@ If you land on another star in the universe, you are randomly given a choice to 
 There are many different stars to unlock, each bringing a unique glow to your game. There are also many upgrades to unlock, allowing you to choose the starting value of the size, spread, and speed of the asteroids, as well as how many extra lives you start with.
 
 ## Screenshots
-![Gameplay 1 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/217ba1dc-8ceb-4797-b83b-92131e3f5bb5)
-![Gameplay 2 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/b82d28c6-15a8-4cf0-8e5d-e3e08b04cbf3)
-![Gameplay 3 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/01cdf94c-fa52-4817-8eb4-80ec80c2e83d)
-![Gameplay 4 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/872ab048-09e6-44ab-8665-acf729d55e3f)
-![Gameplay 5 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/716a3112-d916-4144-8ad0-8cecd3c21aea)
-![Menu Image git](https://github.com/JasonLandis/JasonLandis/assets/100310833/dd9b2446-d956-40ad-96cb-d97eb66e8f29)
-![Shop Image git](https://github.com/JasonLandis/JasonLandis/assets/100310833/eb5475ea-33d3-47fd-accb-79b404727fc1)
-![Upgrades Menu git](https://github.com/JasonLandis/JasonLandis/assets/100310833/a95adafe-e509-4f68-b2af-9c29b4aa06d2)
+![Gameplay 1 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/bb2fda02-aa88-4f00-b419-40dd5fb6ede0)
+![Gameplay 1 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/fc8d9a48-47ff-45b8-9ede-6e2faef6fafd)
+![Gameplay 1 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/153cc786-6433-4ac8-b152-8f9c9f944dbe)
+![Gameplay 1 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/4e9c870a-a265-4a25-8928-cb46518855b6)
+
 
 
 ## Upcoming game ideas
