@@ -29,4 +29,5 @@ There are many different stars to unlock, each bringing a unique glow to your ga
 ## Upcoming game ideas
 
 Photophobia (3D horror game - Unreal Engine)
+<br>
 Pathfinder (2D puzzle game - Unity)
