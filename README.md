@@ -3,9 +3,6 @@
 # Constellation
 ## [Download on Google Play](https://play.google.com/store/apps/details?id=com.JasonLandis.Constellation)
 
-
-![feature](https://github.com/JasonLandis/JasonLandis/assets/100310833/24b62e2f-0325-4f9d-8df4-e654c40c758a)
-
 ## How to play
 In Constellation, you play as a star within a universe surrounded by other stars. You have a mini-map that allows you to see where you are in the universe and any stars that are close by. You select a direction and a distance to begin traveling and grow your constellation.
 
