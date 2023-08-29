@@ -10,5 +10,6 @@
 # Games I'm working on:
 
 ## Pathfinder
-![Screenshot 2023-08-29 023314](https://github.com/JasonLandis/JasonLandis/assets/100310833/1cb85a90-d8ee-4f05-a6fa-2e5fbf255f12)
-![Screenshot 2023-08-29 023058](https://github.com/JasonLandis/JasonLandis/assets/100310833/052ba03b-0023-42bd-b89a-901ce5f69fd3)
+![Path 1](https://github.com/JasonLandis/JasonLandis/assets/100310833/96b20576-de50-43e0-b485-617c277c0b7f)
+![Path 2](https://github.com/JasonLandis/JasonLandis/assets/100310833/2881113c-1de8-4d08-b649-a0d37b18a0e3)
+### Check out the repository
