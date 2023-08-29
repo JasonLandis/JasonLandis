@@ -10,8 +10,5 @@
 # Games I'm working on:
 
 ## Pathfinder
-
-
-Photophobia (3D horror game - Unreal Engine)
-<br>
-Pathfinder (2D puzzle game - Unity)
+![Screenshot 2023-08-29 023314](https://github.com/JasonLandis/JasonLandis/assets/100310833/1cb85a90-d8ee-4f05-a6fa-2e5fbf255f12)
+![Screenshot 2023-08-29 023058](https://github.com/JasonLandis/JasonLandis/assets/100310833/052ba03b-0023-42bd-b89a-901ce5f69fd3)
