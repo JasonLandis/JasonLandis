@@ -1,4 +1,4 @@
-<h1>Published Games:</h1>
+# Published Games:
 
 ## Constellation
 
