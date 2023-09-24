@@ -1,3 +1,9 @@
+<style>
+a {
+    color: #FF5733;
+}
+</style>
+
 # Games I've made:
 
 **Constellation**
