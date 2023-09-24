@@ -7,6 +7,6 @@
 ![Gameplay 5 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/189ce49d-7f87-4fa5-8406-18405a87c1d8)
 ![Gameplay 4 git](https://github.com/JasonLandis/JasonLandis/assets/100310833/e6d0e580-7262-4ef3-9b81-c899a694370b)
 
-### [Check it out on Google Play](https://play.google.com/store/apps/details?id=com.JasonLandis.Constellation)
+[**Check it out on Google Play**](https://play.google.com/store/apps/details?id=com.JasonLandis.Constellation)
 
-### Check out my full portfolio [here](https://jasonlandis.dev)
+**Check out my full portfolio [here](https://jasonlandis.dev)**
