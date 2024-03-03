@@ -1,1 +1,1 @@
-[![linkedin_banner](https://github.com/JasonLandis/JasonLandis/assets/100310833/e9ca3df8-0537-4069-86ee-cf7cb880bb82)](https://jasonlandis.dev)
+[![linkedin_banner_git](https://github.com/JasonLandis/JasonLandis/assets/100310833/81acfc8b-005d-46d9-a746-5be6cac7f332)](https://jasonlandis.dev)
